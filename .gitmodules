@@ -1,0 +1,3 @@
+[submodule "IP2Location-PHP-Module"]
+	path = IP2Location-PHP-Module
+	url = https://github.com/chrislim2888/IP2Location-PHP-Module.git
